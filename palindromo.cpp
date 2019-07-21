@@ -11,11 +11,11 @@ int main(){
         num=num/10;
     }while(num!=0);
 if(num1==pal){
-    cout<<"Es un palindromo\n";
+    cout<<"Es un palíndromo\n";
 }
 else
 {
-    cout<<"No es un palindromo\n";
+    cout<<"No es un palíndromo\n";
 }
     return 0;
 }
